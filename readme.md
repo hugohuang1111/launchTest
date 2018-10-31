@@ -23,4 +23,4 @@ this will launch android App `com.dingogames.tastyplantet4` 3 times. rest 10 sec
 
 1. Android ADB
 2. [pidcat](https://github.com/JakeWharton/pidcat)
-
+3. Python 2.7
